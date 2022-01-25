@@ -32,9 +32,5 @@
 <a href="https://ibb.co/f4xzsxZ">
 	<img src="https://i.ibb.co/MMCxmCK/tempsnip.png" alt="tempsnip" border="0">
 </a>
-
-<div>
 	<h2> Video do funcionamento do Projeto </h2>
-	<iframe width="586" height="409" src="https://www.youtube.com/embed/64DauGZWhnI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
-	</iframe>
-</div>
+	[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)]("https://www.youtube.com/embed/64DauGZWhnI")
