@@ -33,4 +33,4 @@
 	<img src="https://i.ibb.co/MMCxmCK/tempsnip.png" alt="tempsnip" border="0">
 </a>
 	<h2> Video do funcionamento do Projeto </h2>
-	[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)]("https://www.youtube.com/embed/64DauGZWhnI")
+	[![IMAGE ALT TEXT HERE]("https://www.youtube.com/embed/64DauGZWhnI")]
