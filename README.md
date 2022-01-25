@@ -1,7 +1,7 @@
 <h2> Codificador e Decodificador</h2>
 <h3> Projeto consiste basicamente Criptografia, onde:</h3>
 <p>
-	As "chaves" de criptografia que utilizaremos são:</p>
+	As "chaves" de criptografia que utilizaremos são:
 	</br>
 	A letra "e" é convertida para "enter"
 	</br>
