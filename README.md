@@ -35,4 +35,3 @@
 	<h2> Video do funcionamento do Projeto </h2>
 	<a href="https://youtu.be/64DauGZWhnI"> Assistir o Video demonstrativo</a>
 	
-	#challengeonelogicabr
